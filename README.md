@@ -4,7 +4,7 @@
 - [x] Dia 2 - Soma de dois números
 - [x] Dia 3 - Par ou ímpar
 - [x] Dia 4 - Laços de repetição
-- [ ] Dia 5
+- [x] Dia 5 - Quadrado de um número
 - [ ] Dia 6
 - [ ] Dia 7
 - [ ] Dia 8
