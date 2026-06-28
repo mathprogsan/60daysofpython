@@ -1,6 +1,6 @@
 # 60 Dias Programando em Python
 
-- [✔️] Dia 1 - helloworld.py
+- [x] Dia 1 - helloworld.py
 - [ ] Dia 2
 - [ ] Dia 3
 - [ ] Dia 4
