@@ -1,7 +1,7 @@
 # 60 Dias Programando em Python
 
 - [x] Dia 1 - helloworld.py
-- [ ] Dia 2
+- [x] Dia 2 - Soma de dois números
 - [ ] Dia 3
 - [ ] Dia 4
 - [ ] Dia 5
