@@ -2,7 +2,7 @@
 
 - [x] Dia 1 - helloworld.py
 - [x] Dia 2 - Soma de dois números
-- [ ] Dia 3
+- [x] Dia 3 - Par ou ímpar
 - [ ] Dia 4
 - [ ] Dia 5
 - [ ] Dia 6
