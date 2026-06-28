@@ -3,7 +3,7 @@
 - [x] Dia 1 - helloworld.py
 - [x] Dia 2 - Soma de dois números
 - [x] Dia 3 - Par ou ímpar
-- [ ] Dia 4
+- [x] Dia 4 - Laços de repetição
 - [ ] Dia 5
 - [ ] Dia 6
 - [ ] Dia 7
