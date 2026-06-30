@@ -9,7 +9,7 @@
 - [x] Dia 7 - Dicionários
 - [x] Dia 8 - Condicional
 - [x] Dia 9 - Contador
-- [ ] Dia 10
+- [x] Dia 10 - Gerador de senhas
 - [ ] Dia 11
 - [ ] Dia 12
 - [ ] Dia 13
