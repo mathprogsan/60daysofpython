@@ -5,7 +5,7 @@
 - [x] Dia 3 - Par ou ímpar
 - [x] Dia 4 - Laços de repetição
 - [x] Dia 5 - Quadrado de um número
-- [ ] Dia 6
+- [x] Dia 6 - Lista de frutas
 - [ ] Dia 7
 - [ ] Dia 8
 - [ ] Dia 9
