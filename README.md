@@ -10,7 +10,7 @@
 - [x] Dia 8 - Condicional
 - [x] Dia 9 - Contador
 - [x] Dia 10 - Gerador de senhas
-- [ ] Dia 11
+- [x] Dia 11 - Lista ordenada sorted()
 - [ ] Dia 12
 - [ ] Dia 13
 - [ ] Dia 14
