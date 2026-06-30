@@ -8,7 +8,7 @@
 - [x] Dia 6 - Lista de frutas
 - [x] Dia 7 - Dicionários
 - [x] Dia 8 - Condicional
-- [ ] Dia 9
+- [x] Dia 9 - Contador
 - [ ] Dia 10
 - [ ] Dia 11
 - [ ] Dia 12
