@@ -6,7 +6,7 @@
 - [x] Dia 4 - Laços de repetição
 - [x] Dia 5 - Quadrado de um número
 - [x] Dia 6 - Lista de frutas
-- [ ] Dia 7
+- [x] Dia 7 - Dicionários
 - [ ] Dia 8
 - [ ] Dia 9
 - [ ] Dia 10
