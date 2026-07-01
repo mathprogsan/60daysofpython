@@ -11,7 +11,7 @@
 - [x] Dia 9 - Contador
 - [x] Dia 10 - Gerador de senhas
 - [x] Dia 11 - Lista ordenada sorted()
-- [ ] Dia 12
+- [x] Dia 12 - Busca linear
 - [ ] Dia 13
 - [ ] Dia 14
 - [ ] Dia 15
