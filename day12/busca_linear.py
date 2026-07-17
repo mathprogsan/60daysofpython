@@ -5,7 +5,7 @@ def busca_linear(lista, procurado):
     return -1
 
 lista = [3,4,2,6,5,9,8,11,13,16]
-procurado = 11
+procurado = 16
 
 indice = busca_linear(lista, procurado)
 
